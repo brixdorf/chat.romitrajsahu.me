@@ -14,10 +14,10 @@ The purpose of this project is the deploy and run a Matrix homeserver which is a
 - **DigitalOcean** (Hosting)
 
 # Features ✨
-- **Self-Hosted Matrix Server 🏠:** A fully operational Matrix homeserver providing decentralized communication for all users.
-- **Public Registration 📝:** Anyone can register an account using their email address and join the Matrix network.
-- **Real-Time Communication 💬:** Instant messaging, group chats, and direct conversations on your Matrix server.
-- **Secure HTTPS Access 🔐:** SSL encryption ensures the safety of all communication using Certbot and NGINX.
-- **Element Client Integration 🖥️:** Easy access to your Matrix server through the Element web and desktop client.
-- **Decentralized Network 🌎:** Fully embracing the decentralized nature of the Matrix protocol, ensuring that no one owns or controls your data.
+- **Self-Hosted Matrix Server 🏠:**
+- **Public Registration 📝:**
+- **Real-Time Communication 💬:**
+- **Secure HTTPS Access 🔐:**
+- **Element Client Integration 🖥️:**
+- **Decentralized Network 🌎:**
 
