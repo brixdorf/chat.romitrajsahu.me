@@ -14,10 +14,10 @@ The purpose of this project is the deploy and run a Matrix homeserver which is a
 - **DigitalOcean** (Hosting)
 
 # Features ✨
-- **Self-Hosted Matrix Server 🏠:**
-- **Public Registration 📝:**
-- **Real-Time Communication 💬:**
-- **Secure HTTPS Access 🔐:**
-- **Element Client Integration 🖥️:**
-- **Decentralized Network 🌎:**
+- **Self-Hosted Matrix Server 🏠**
+- **Public Registration 📝**
+- **Real-Time Communication 💬**
+- **Secure HTTPS Access 🔐**
+- **Element Client Integration 🖥️**
+- **Decentralized Network 🌎**
 
